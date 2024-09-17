@@ -1,0 +1,1 @@
+grep -i -o "\bПугачев\b" data/pushkin.txt | wc -l
